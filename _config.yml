@@ -11,7 +11,7 @@ title                    : "Zhaoran Liu "
 title_separator          : "-"
 name                     : &name "Zhaoran Liu"
 description              : &description "3rd Year PhD Student@Tohoku Univ., Astronomical Institute"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhaoranliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZhaoranLiu/ZhaoranLiu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -86,9 +86,9 @@ author:
   location         : "Sendai, Japan"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : zhaoran.liu@astr.tohoku.ac.jp
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Zhaoran-Liu"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ZhaoranLiu"
   google_plus      :
   keybase          :
   instagram        :
