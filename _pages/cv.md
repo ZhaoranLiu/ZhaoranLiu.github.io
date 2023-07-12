@@ -18,6 +18,11 @@ Education
 * B.S. in Astronomy, University of Science and Technology of China, 2020
   * Supervisor: [Prof. Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/)
 
+
+Publications
+======
+**Zhaoran Liu**; Takahiro Morishita; Tadayuki Kodama; 'A Multi-Wavelength Investigation of Dust and Stellar Mass Distributions in Galaxies: Insights from High-Resolution JWST Imaging', 2023, [arXiv:2305.10944](https://arxiv.org/abs/2305.10944)
+
 Observing Time Allocation
 ======
 * May 2023: JWST/NIRCam - Cycle 2: A NIRCam Pure-Parallel Imaging Survey of Galaxies Across the Universe, 600 hours as co-I 
@@ -51,11 +56,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Talks
 ======
@@ -63,12 +64,3 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
