@@ -18,11 +18,6 @@ Education
 * B.S. in Astronomy, University of Science and Technology of China, 2020
   * Supervisor: [Prof. Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/)
 
-
-Publications
-======
-**Zhaoran Liu**; Takahiro Morishita; Tadayuki Kodama; 'A Multi-Wavelength Investigation of Dust and Stellar Mass Distributions in Galaxies: Insights from High-Resolution JWST Imaging', 2023, [arXiv:2305.10944](https://arxiv.org/abs/2305.10944)
-
 Observing Time Allocation
 ======
 * May 2023: JWST/NIRCam - Cycle 2: A NIRCam Pure-Parallel Imaging Survey of Galaxies Across the Universe, 600 hours as co-I 
@@ -32,7 +27,7 @@ Observing Time Allocation
 
 Professional Service
 ======
-* April 2022 - April 2023: Organizer of the cross-institutional Cluster Seminar,  The National Astronomical Observatory of Japan, the University of Tokyo, Osaka University, Tohoku University
+* April 2022 - April 2023: Organizer of the cross-institutional Cluster Seminar, the participating institutions included: The National Astronomical Observatory of Japan, the University of Tokyo, Osaka University, Tohoku University
 * April 2022 - April 2022: Teaching Assistant, Galactic Astrophysics II, Tohoku University
 
 Selected Awards
@@ -47,20 +42,12 @@ Experience
 * August 2018: Visiting student at National Mizusawa VLBI Astronomical Observatory
 
   
-Skills
+Technical Proficiencies
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Programming
+  * C/C++, Python
+* Software
+  * IRAF, Source Extractor, CIGALE, EaZY, GALFIT, FreeFem++, MCSRED, Lenstronomy, Lenstruction, etc.
+* Languages
+  * English(fluent), Japanese(basic), Chinese(native)
   
