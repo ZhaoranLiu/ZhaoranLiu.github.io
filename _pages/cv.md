@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * Ph.D in Astronomy, Tohoku University, 2025 (expected)
-  * Supervisor: Prof. [Tadayuki Kodama](http://mahalo.galaxy.bindcloud.jp/pg39.html)
+  * Supervisor: [Prof. Tadayuki Kodama](http://mahalo.galaxy.bindcloud.jp/pg39.html)
 * M.S. in Astronomy, Tohoku University, 2022
-  * Supervisor: Prof. [Tadayuki Kodama](http://mahalo.galaxy.bindcloud.jp/pg39.html)
+  * Supervisor: [Prof. Tadayuki Kodama](http://mahalo.galaxy.bindcloud.jp/pg39.html)
 * B.S. in Astronomy, University of Science and Technology of China, 2020
-  * Supervisor: Prof. [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/)
+  * Supervisor: [Prof. Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/)
 
 Observing Time Allocation
 ======
