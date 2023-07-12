@@ -36,6 +36,11 @@ Selected Awards
   * Annual research grant 340K JPY
 * 2021 - 2022: Tohoku University Global Hagi Scholarship
 
+Experience
+======
+* February 2023 - March 2023: Visiting graduate scholar at Caltech/IPAC, supported by JSPS program of International Leading Research, “ Comprehensive understanding of the formation history of structures in the Universe”, Mentor: [Dr. Takahiro Morishita](https://mtakahiro.github.io)
+
+
   
 Skills
 ======
