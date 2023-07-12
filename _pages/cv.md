@@ -39,7 +39,7 @@ Selected Awards
 Experience
 ======
 * February 2023 - March 2023: Visiting graduate scholar at Caltech/IPAC, Mentor: [Dr. Takahiro Morishita](https://mtakahiro.github.io)
-
+* August 2018: Visiting student at National Mizusawa VLBI Astronomical Observatory
 
   
 Skills
