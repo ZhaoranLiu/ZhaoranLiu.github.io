@@ -20,7 +20,7 @@ Education
 
 Observing Time Allocation
 ======
-* May 2023: JWST Cycle 2,GO, Pure-Parallel Imaging, 600 hours as co-I
+* May 2023: JWST Cycle 2, GO, Pure-Parallel Imaging, 600 hours as co-I
 * December 2022: Subaru S23A, MOIRCS + HSC, 2.25 nights **as PI**
 * December 2021: Subaru S22A, SWIMS, 2 nights as co-I
 
