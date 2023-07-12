@@ -20,6 +20,6 @@ I am a third-year PhD student at the Astronomical Institute of Tohoku University
 
 - A Multi-Wavelength Study of Dust and Stellar Mass Distributions in Galaxies: Insights from High-Resolution JWST Imaging.
 
-  Zhaoran Liu<sup>\*</sup>, <b>Takahiro Morishita<sup>\*</sup></b>, Tadayuki Kodama
+  Zhaoran Liu<sup>\*</sup>, Takahiro Morishita, Tadayuki Kodama
 
   *arXiv*, 2023.
