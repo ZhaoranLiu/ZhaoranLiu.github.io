@@ -11,23 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Astronomy, Tohoku University, 2025 (expected)
+  * Supervisor: Prof. [Tadayuki Kodama](http://mahalo.galaxy.bindcloud.jp/pg39.html)
+* M.S. in Astronomy, Tohoku University, 2022
+  * Supervisor: Prof. [Tadayuki Kodama](http://mahalo.galaxy.bindcloud.jp/pg39.html)
 * B.S. in Astronomy, University of Science and Technology of China, 2020
-  * Supervisor: Prof. [Xiaobo Dong
+  * Supervisor: Prof. [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/)
 
-Work experience
+
+Professional Service
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022.4 - 2023.4: Organizer of the cross-institutional Cluster Seminar, with participating institutions including The National Astronomical Observatory of Japan, the University of Tokyo, Osaka University, Tohoku University
+* 2022.4 - 2022.8: TA, Galactic Astrophysics II
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Selected Awards
+======
+* 2022 - 2025: Pioneering Research Support Project, Tohoku University
+  * Annual research grant 340K JPY
+* 2021 - 2022: Tohoku University Global Hagi Scholarship
+
   
 Skills
 ======
