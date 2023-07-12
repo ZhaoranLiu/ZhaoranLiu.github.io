@@ -27,8 +27,8 @@ Observing Time Allocation
 
 Professional Service
 ======
-* April 2022 - April 2023: Organizer of the cross-institutional Cluster Seminar, with participating institutions including The National Astronomical Observatory of Japan, the University of Tokyo, Osaka University, Tohoku University
-* April 2022 - April 2022: Teaching Assistant, Galactic Astrophysics II
+* April 2022 - April 2023: Organizer of the cross-institutional Cluster Seminar,  The National Astronomical Observatory of Japan, the University of Tokyo, Osaka University, Tohoku University
+* April 2022 - April 2022: Teaching Assistant, Galactic Astrophysics II, Tohoku University
 
 Selected Awards
 ======
@@ -38,7 +38,7 @@ Selected Awards
 
 Experience
 ======
-* February 2023 - March 2023: Visiting graduate scholar at Caltech/IPAC, supported by JSPS program of International Leading Research, “ Comprehensive understanding of the formation history of structures in the Universe”, Mentor: [Dr. Takahiro Morishita](https://mtakahiro.github.io)
+* February 2023 - March 2023: Visiting graduate scholar at Caltech/IPAC, Mentor: [Dr. Takahiro Morishita](https://mtakahiro.github.io)
 
 
   
