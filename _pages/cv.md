@@ -20,9 +20,9 @@ Education
 
 Observing Time Allocation
 ======
-* May 2023: JWST Cycle 2, GO, Pure-Parallel Imaging, 600 hours as co-I
-* December 2022: Subaru S23A, MOIRCS + HSC, 2.25 nights **as PI**
-* December 2021: Subaru S22A, SWIMS, 2 nights as co-I
+* May 2023: JWST/NIRCam - Cycle 2: A NIRCam Pure-Parallel Imaging Survey of Galaxies Across the Universe, 600 hours as co-I 
+* December 2022: Subaru/MOIRCS + HSC - S23A: A deg.-scale pair NB imaging of Balmer decrement across a z~0.9 supercluster, 2.25 nights **as PI**
+* December 2021: Subaru/SWIMS - S22A: A deg.-scale pair NB imaging of Balmer decrement across a z~0.9 supercluster, 2 nights as co-I
 
 
 Professional Service
