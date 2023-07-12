@@ -22,7 +22,9 @@ Observing Time Allocation
 ======
 * 2023. 5: JWST Cycle 2,GO, Pure-Parallel Imaging, 600 hours as co-I
 * 2022. 12: Subaru S23A, MOIRCS + HSC, 2.25 nights as PI
-* 2021. 12: Subaru S22A, SWIMS, 2 nights as co-I
+  2023. 2021. 12: Subaru S22A, SWIMS, 2 nights as co-I
+* 2023. 5: JWST Cycle 2,GO, Pure-Parallel Imaging, 600 hours as co-I
+* 2022. 12: Subaru S23A, MOIRCS + HSC, 2.25 nights as PI
 
 
 Professional Service
