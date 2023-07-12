@@ -27,7 +27,7 @@ Observing Time Allocation
 
 Professional Service
 ======
-* April 2022 - April 2023: Organizer of the cross-institutional Cluster Seminar, the participating institutions included: The National Astronomical Observatory of Japan, the University of Tokyo, Osaka University, Tohoku University
+* April 2022 - April 2023: Organizer of the cross-institutional Cluster Seminar with the participation of esteemed institutions, including the National Astronomical Observatory of Japan, the University of Tokyo, Osaka University, and Tohoku University
 * April 2022 - April 2022: Teaching Assistant, Galactic Astrophysics II, Tohoku University
 
 Selected Awards
