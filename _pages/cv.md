@@ -18,11 +18,17 @@ Education
 * B.S. in Astronomy, University of Science and Technology of China, 2020
   * Supervisor: Prof. [Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/)
 
+Observing Time Allocation
+======
+* 2023. 5: JWST Cycle 2,GO, Pure-Parallel Imaging, 600 hours as co-I
+* 2022. 12: Subaru S23A, MOIRCS + HSC, 2.25 nights as PI
+* 2021. 12: Subaru S22A, SWIMS, 2 nights as co-I
+
 
 Professional Service
 ======
 * 2022.4 - 2023.4: Organizer of the cross-institutional Cluster Seminar, with participating institutions including The National Astronomical Observatory of Japan, the University of Tokyo, Osaka University, Tohoku University
-* 2022.4 - 2022.8: TA, Galactic Astrophysics II
+* 2022.4 - 2022.8: Teaching Assistant, Galactic Astrophysics II
 
 Selected Awards
 ======
