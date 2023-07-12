@@ -20,15 +20,15 @@ Education
 
 Observing Time Allocation
 ======
-* 2023.5: JWST Cycle 2,GO, Pure-Parallel Imaging, 600 hours as co-I
-* 2022.12: Subaru S23A, MOIRCS + HSC, 2.25 nights **as PI**
-* 2021.12: Subaru S22A, SWIMS, 2 nights as co-I
+* May 2023: JWST Cycle 2,GO, Pure-Parallel Imaging, 600 hours as co-I
+* December 2022: Subaru S23A, MOIRCS + HSC, 2.25 nights **as PI**
+* December 2021: Subaru S22A, SWIMS, 2 nights as co-I
 
 
 Professional Service
 ======
-* 2022.4 - 2023.4: Organizer of the cross-institutional Cluster Seminar, with participating institutions including The National Astronomical Observatory of Japan, the University of Tokyo, Osaka University, Tohoku University
-* 2022.4 - 2022.8: Teaching Assistant, Galactic Astrophysics II
+* April 2022 - April 2023: Organizer of the cross-institutional Cluster Seminar, with participating institutions including The National Astronomical Observatory of Japan, the University of Tokyo, Osaka University, Tohoku University
+* April 2022 - April 2022: Teaching Assistant, Galactic Astrophysics II
 
 Selected Awards
 ======
