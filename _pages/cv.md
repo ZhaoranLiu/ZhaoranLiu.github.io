@@ -32,7 +32,9 @@ Professional Service
 
 Selected Awards
 ======
-* 2022 - 2025: Pioneering Research Support Project, Tohoku University
+* 2024 - 2026: DC2 Research Fellowship for Young Scientists, Japan Society for the Promotion of Science (JSPS)
+  *  Annual research grant 800K JPY
+* 2022 - 2024: Pioneering Research Support Project, Tohoku University
   * Annual research grant 340K JPY
 * 2021 - 2022: Tohoku University Global Hagi Scholarship
 
@@ -47,7 +49,7 @@ Technical Proficiencies
 * Programming
   * C/C++, Python
 * Software
-  * IRAF, Source Extractor, CIGALE, EaZY, GALFIT, FreeFem++, MCSRED, Lenstronomy, Lenstruction, etc.
+  * IRAF, CASA, Source Extractor, CIGALE, EaZY, GALFIT, FreeFem++, MCSRED, Lenstronomy, Lenstruction, UVMULTIFIT, etc.
 * Languages
   * English(fluent), Japanese(basic), Chinese(native)
   
