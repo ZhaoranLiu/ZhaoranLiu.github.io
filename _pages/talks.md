@@ -5,12 +5,16 @@ permalink: /talks/
 author_profile: true
 ---
 
-* 「Caltech Astronomy Tea Talk」, Illuminating the Dust-Obscured Universe With Subaru and JWST, November 27, 2023, Pasadena, USA, Oral
+* 「10th Galaxy Evolution Workshop」, ASIAA, Taipei, Taiwan, Aug. 2024
 
-* 「Resolving the Extragalactic Universe with ALMA & JWST」, A Multiwavelength Investigation of Dust and Stellar Mass Distributions in Galaxies: Insights from High-resolution JWST Imaging, November 6-10, 2023, Tokyo, Japan, Poster
+* 「The Second SUPER-IRNET workshop」, Beppu, Japan, Jul. 2024
 
-* 「A journey through galactic environments: From the halo assembly bias to the satellite quenching」, A deg.-scale pair NB imaging of Balmer decrement across a z=0.9 supercluster, September 25-29, 2023, Porto Ercole, Italy, Poster
-  
-* 「Kickoff meeting of International Leading Research」, Resolve the dust distribution inside galaxies with JWST, May 31 - June 2, 2023, Tokyo, Japan, Poster
+* 「[Invited] Talk at Tsinghua High-z Group」, Tsinghua University (online), Jun. 2024
 
-* 「9th Galaxy Evolution Workshop」, Large scale structures and galaxy evolution in a z=0.9 supercluster traced by unique pair narrow-band imaging, February 20-23, 2023, Kyoto, Japan, Oral
+* 「Extreme galaxies in their extreme environments at extremely early epochs」, poster, Reykjavík, Iceland, May 2024
+
+* 「ELT Science in Light of JWST」, UCLA, Los Angeles, California, USA, Dec. 2023
+
+* 「Caltech Astronomy Tea Talk」, Caltech, Pasadena, California, USA, Nov. 2023
+* 「A journey through galactic environments: From the halo assembly bias to the satellite quenching」, poster, Porto Ercole, Italy, Spet. 2023
+* 「9th Galaxy Evolution Workshop」, Kyoto University, Kyoto, Japan, Feb. 2023
