@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Zhaoran Liu"
-excerpt: "刘兆然"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
