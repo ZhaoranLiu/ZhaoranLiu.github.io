@@ -9,7 +9,7 @@ author_profile: true
 
 * 「The Second SUPER-IRNET workshop」, Beppu, Japan, Jul. 2024
 
-* 「[Invited] Talk at Tsinghua High-z Group」, Tsinghua University (online), Jun. 2024
+* 「**Invited** Talk at Tsinghua High-z Group」, Tsinghua University (online), Jun. 2024
 
 * 「Extreme galaxies in their extreme environments at extremely early epochs」, poster, Reykjavík, Iceland, May 2024
 
