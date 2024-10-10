@@ -18,8 +18,8 @@ My research centers on two primary areas:
 1. I explore how galaxies co-evolve with their surrounding structures, examining the cosmic web’s role in fueling them and the environmental factors that lead to their early quenching relative to field galaxies. I use the Subaru Telescope's narrow-band imaging to study galaxy evolution across various environments.
 Key questions I seek to answer include:
 
-**When, how, and why does galaxy evolution shift from high star formation in early protoclusters to the quiescent populations seen in local clusters?
-**What conditions, such as ram pressure stripping, drive this transition and accelerate the emergence of passive galaxies?
+*When, how, and why does galaxy evolution shift from high star formation in early protoclusters to the quiescent populations seen in local clusters?
+*What conditions, such as ram pressure stripping, drive this transition and accelerate the emergence of passive galaxies?
 
 
 3. Galaxy Evolution Through a Spatially Resolved View: I aim to trace how galaxies build their structures through components like molecular gas, ionized gas, and dust. Analyzing these elements reveals how galaxies assemble via cold gas inflow, active star formation, and the processes that lead to quenching, such as gas consumption, bulge stabilization, and environmental interactions. Together with [Dr. Takahiro Morishita](https://mtakahiro.github.io) , I use data from JWST MIRI, JWST NIRCam WFSS, and ALMA to investigate the structural formation of galaxies.
