@@ -4,12 +4,13 @@ title: ""
 permalink: /talks/
 author_profile: true
 ---
+* 「From Protoclusters to First Mature Clusters」, **Invited** talk, Suzhou, China, Oct. 2024
 
 * 「10th Galaxy Evolution Workshop」, ASIAA, Taipei, Taiwan, Aug. 2024
 
 * 「The Second SUPER-IRNET workshop」, Beppu, Japan, Jul. 2024
 
-* 「**Invited** Talk at Tsinghua High-z Group」, Tsinghua University (online), Jun. 2024
+* 「Seminar with Tsinghua High-z Group」, **Invited** talk, Tsinghua University (online), Jun. 2024
 
 * 「Extreme galaxies in their extreme environments at extremely early epochs」, poster, Reykjavík, Iceland, May 2024
 
