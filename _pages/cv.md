@@ -16,25 +16,26 @@ Education
 * M.S. in Astronomy, Tohoku University, 2022
   * Supervisor: [Prof. Tadayuki Kodama](http://mahalo.galaxy.bindcloud.jp/pg39.html)
 * B.S. in Astronomy, University of Science and Technology of China, 2020
-  * Supervisor: [Prof. Xiaobo Dong](http://users.ynao.ac.cn/~xbdong/)
+  * Supervisor: Prof. Xiaobo Dong
 
 Observing Time Allocation
 ======
 * May 2023: JWST/NIRCam - Cycle 2: A NIRCam Pure-Parallel Imaging Survey of Galaxies Across the Universe, 600 hours as co-I 
 * December 2022: Subaru/MOIRCS + HSC - S23A: A deg.-scale pair NB imaging of Balmer decrement across a z~0.9 supercluster, 2.25 nights **as PI**
-* December 2021: Subaru/SWIMS - S22A: A deg.-scale pair NB imaging of Balmer decrement across a z~0.9 supercluster, 2 nights as co-I
+* 2021 - 2024: 11 accepted Subaru proposals as Co-I (S21A - S24B)
 
 
 Professional Service
 ======
+* 2024: Peer Reviewer, Cycle 11 ALMA proposals
 * April 2022 - April 2023: Organizer of the cross-institutional Cluster Seminar with the participation of esteemed institutions, including the National Astronomical Observatory of Japan, the University of Tokyo, Osaka University, and Tohoku University
 * April 2022 - August 2022: Teaching Assistant, Galactic Astrophysics II, Tohoku University
 
 Selected Awards
 ======
-* 2024 - 2026: DC2 Research Fellowship for Young Scientists, Japan Society for the Promotion of Science (JSPS)
+* 2024 - 2026: JSPS Fellowship for Ph.D student (DC2)
   *  Annual research grant 800K JPY
-* 2022 - 2024: Pioneering Research Support Project, Tohoku University
+* 2022 - 2024: JST PhD Student Pioneering Research Support Fellowship
   * Annual research grant 340K JPY
 * 2021 - 2022: Tohoku University Global Hagi Scholarship
 
@@ -51,5 +52,5 @@ Technical Proficiencies
 * Software
   * IRAF, CASA, Source Extractor, CIGALE, EaZY, GALFIT, FreeFem++, MCSRED, Lenstronomy, Lenstruction, UVMULTIFIT, etc.
 * Languages
-  * English(fluent), Japanese(basic), Chinese(native)
+  * English(fluent),  Chinese(native), Japanese(conversational)
   
