@@ -12,6 +12,7 @@ View the full list of my publications on [ADS](https://ui.adsabs.harvard.edu/sea
 ### Deciphering Gas Dynamics and Star Formation in a z=1.1 Main Sequence Spiral Galaxy with ALMA and JWST
 
 **Liu, Z.**, Kodama, T., Morishita, T., Lee, K., Sun, F., Kubo, M., Cai, Z., Wu, Y., Li, Z.
+
 *[arXiv:2410.20700](https://arxiv.org/abs/2410.20700)*
 
 How disk galaxies assemble their mass and evolve into stable, quiescent systems is a longstanding question. While we understand that star formation slows as galaxies grow, the exact regulation mechanisms remain debated. Simulations suggest that bulges play a critical role in quenching through “morphological quenching,” yet observational evidence on the specifics of this process is limited.
