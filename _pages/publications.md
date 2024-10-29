@@ -9,6 +9,16 @@ View the full list of my publications on [ADS](https://ui.adsabs.harvard.edu/sea
 
 
 ## 2024
+### Deciphering Gas Dynamics and Star Formation in a z=1.1 Main Sequence Spiral Galaxy with ALMA and JWST
+
+**Liu, Z.**, Kodama, T., Morishita, T., Lee, K., Sun, F., Kubo, M., Cai, Z., Wu, Y., Li, Z.
+*[arXiv:2410.20700](https://arxiv.org/abs/2410.20700)*
+
+How disk galaxies assemble their mass and evolve into stable, quiescent systems is a longstanding question. While we understand that star formation slows as galaxies grow, the exact regulation mechanisms remain debated. Simulations suggest that bulges play a critical role in quenching through “morphological quenching,” yet observational evidence on the specifics of this process is limited.
+In this study, we combine JWST NIRCam WFSS and ALMA to trace Paschen-α and CO emission in an extended spiral galaxy at z=1.1. For the first time, we track star formation efficiency (SFE) using the dust-insensitive Paα tracer, allowing us to map gas-to-star conversion across the galaxy on kpc scales. Surprisingly, we observe uniform SFE across both bulge and disk, despite the bulge’s higher baryonic density, suggesting that mass assembly in the bulge may be suppressed. Further analysis of CO kinematics shows that the central 1 kpc region has a velocity dispersion over six times higher than the disk. This central mass concentration increases gravitational potential, leading to higher velocity dispersion, which can dynamically heat the gas, preventing it from collapsing to form stars. This self-regulating process likely halts star formation in the bulge as the galaxy matures.
+
+
+
 
 ### Accelerated Emergence of Evolved Galaxies in Early Overdensities at *z* ~ 5.7
 
