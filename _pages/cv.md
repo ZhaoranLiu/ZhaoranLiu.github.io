@@ -52,5 +52,5 @@ Technical Proficiencies
 * Software
   * IRAF, CASA, Source Extractor, CIGALE, EaZY, GALFIT, FreeFem++, MCSRED, Lenstronomy, Lenstruction, UVMULTIFIT, etc.
 * Languages
-  * English(fluent),  Chinese(native), Japanese(conversational)
+  * English(fluent),  Chinese(native)
   
