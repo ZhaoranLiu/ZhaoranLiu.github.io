@@ -8,7 +8,7 @@ author_profile: true
 View the full list of my publications on [ADS](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=((database%3Aastronomy%20OR%20database%3Aphysics))&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(((database%3Aastronomy%20OR%20database%3Aphysics))%20AND%20database%3A%22astronomy%22)&q=%3Dauthor%3A%22Liu%2C%20Zhaoran%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 
-## 2024
+## 2025
 ### Deciphering Gas Dynamics and Star Formation in a z=1.1 Main Sequence Spiral Galaxy with ALMA and JWST
 
 **Liu, Z.**, Kodama, T., Morishita, T., Lee, K., Sun, F., Kubo, M., Cai, Z., Wu, Y., Li, Z.
@@ -25,10 +25,11 @@ In this study, we combine JWST NIRCam WFSS and ALMA to trace Paschen-α and CO e
 
 Morishita, T., **Liu, Z.**, Stiavelli, M., Treu, T., Trenti, M., Chartab, N., Roberts-Borsani, G., Vulcani, B., Bergamini, P., Castellano, M., Grillo, C.
 
-*[arXiv:2408.10980](https://arxiv.org/abs/2408.10980)*
+*[The Astrophysical Journal, 982, 153M](https://arxiv.org/abs/2408.10980)*
 
 In the local universe, galaxy clusters are dominated by quiescent, massive galaxies with old stellar populations, whereas galaxies in high-redshift protoclusters show enhanced star formation fueled by cold gas from the cosmic web. The transition between these states—when, how, and why galaxies shift from active star formation to quiescence—is not well understood. In this paper, we investigate the suppression of star formation in galaxies within overdensities at z > 5, an epoch much earlier than typical environmental quenching. What physical processes lead to this early quenching? We present evidence that these quiescent galaxies exhibit stronger Balmer breaks compared to their field counterparts. Do galaxies in early overdensities favor bursty star formation, building up their stellar mass and quenching early, rather than accumulating mass through constant star formation?
 
+## 2024
 
 ### Characterizing Dust Extinction and Spatially Resolved Paschen-α Emission within 97 Galaxies at 1 < *z* < 1.6 with JWST NIRCam Slitless Spectroscopy
 
