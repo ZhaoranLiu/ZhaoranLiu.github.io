@@ -13,7 +13,7 @@ author_profile: true
 * 「Extreme galaxies in their extreme environments at extremely early epochs」, poster, Reykjavík, Iceland, May 2024
 * 「ELT Science in Light of JWST」, UCLA, Los Angeles, California, USA, Dec. 2023
 * 「Caltech Astronomy Tea Talk」, Caltech, Pasadena, California, USA, Nov. 2023
-* 「A journey through galactic environments: From the halo assembly bias to the satellite quenching」, poster, Porto Ercole, Italy, Spet. 2023
+* 「A journey through galactic environments: From the halo assembly bias to the satellite quenching」, poster, Porto Ercole, Italy, Sept. 2023
 * 「9th Galaxy Evolution Workshop」, Kyoto University, Kyoto, Japan, Feb. 2023
 * 「Subaru Users Meeting FY2022」, NAOJ, Tokyo, Japan, Jan. 2023
 * 「ASJ annual meeting」, Niigata University, Niigata, Japan, Aug. 2022
