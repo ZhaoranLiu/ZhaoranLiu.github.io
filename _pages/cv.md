@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Astronomy, Tohoku University, 2025 (expected)
+* Ph.D in Astronomy, Tohoku University, 2025
   * Supervisor: [Prof. Tadayuki Kodama](http://mahalo.galaxy.bindcloud.jp/pg39.html)
 * M.S. in Astronomy, Tohoku University, 2022
   * Supervisor: [Prof. Tadayuki Kodama](http://mahalo.galaxy.bindcloud.jp/pg39.html)
@@ -33,11 +33,12 @@ Professional Service
 
 Selected Awards
 ======
-* 2024 - 2026: JSPS Fellowship for Ph.D student (DC2)
+* 2024 - 2026: JSPS Fellowship for PhD student (DC2)
   *  Annual research grant 800K JPY
 * 2022 - 2024: JST PhD Student Pioneering Research Support Fellowship
   * Annual research grant 340K JPY
 * 2021 - 2022: Tohoku University Global Hagi Scholarship
+* 2020: Wang Shouguan Talent Program in Astronomy, USTC
 
 Experience
 ======
