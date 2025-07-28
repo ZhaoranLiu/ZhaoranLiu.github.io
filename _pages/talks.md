@@ -11,7 +11,7 @@ author_profile: true
 * 「From Protoclusters to First Mature Clusters」, **Invited talk**, Suzhou, China, Oct. 2024
 * 「10th Galaxy Evolution Workshop」,  Contributed Talk, ASIAA, Taipei, Taiwan, Aug. 2024
 * 「The Second SUPER-IRNET workshop」,  Contributed Talk, Beppu, Japan, Jul. 2024
-* 「Seminar with Tsinghua University High-z Group」,**Invited talk**, Online, Jun. 2024
+* 「Seminar with Tsinghua University High-z Group」, **Invited talk**, Online, Jun. 2024
 * 「Extreme galaxies in their extreme environments at extremely early epochs」, Contributed Poster, Reykjavík, Iceland, May 2024
 * 「ELT Science in Light of JWST」, Contributed Talk, UCLA, Los Angeles, California, USA, Dec. 2023
 * 「Caltech Astronomy Tea Talk」, Seminar Talk, Caltech, Pasadena, California, USA, Nov. 2023
