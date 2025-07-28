@@ -10,6 +10,8 @@ View the full list of my publications on [ADS](https://ui.adsabs.harvard.edu/sea
 
 ## 2025
 
+---
+
 ### Pristine Massive Star Formation Caught at the Break of Cosmic Dawn
 
 Morishita, T., **Liu, Z.**, Stiavelli, M., Treu, T., Bergamini, P., Zhang, Y.
@@ -36,6 +38,8 @@ Morishita, T., **Liu, Z.**, Stiavelli, M., Treu, T., Trenti, M., Chartab, N., Ro
 
 ## 2024
 
+---
+
 ### Characterizing Dust Extinction and Spatially Resolved Paschen-α Emission within 97 Galaxies at 1 < *z* < 1.6 with JWST NIRCam Slitless Spectroscopy
 
 **Liu, Z.**, Morishita, T., Kodama, T.
@@ -45,6 +49,8 @@ Morishita, T., **Liu, Z.**, Stiavelli, M., Treu, T., Trenti, M., Chartab, N., Ro
 ---
 
 ## 2023
+
+---
 
 ### A Multiwavelength Investigation of Dust and Stellar Mass Distributions in Galaxies: Insights from High-resolution JWST Imaging
 
