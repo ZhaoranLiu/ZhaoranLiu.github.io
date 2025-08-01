@@ -20,6 +20,7 @@ Education
 
 Observing Time Allocation
 ======
+* August 2025: ALMA - Cycle 12: Is Dust Production Accelerated in Early Overdensities? A unique test in an extreme galaxy overdensity at z=7.9, 20.1 hours **as PI**
 * May 2023: JWST/NIRCam - Cycle 2: A NIRCam Pure-Parallel Imaging Survey of Galaxies Across the Universe, 600 hours as co-I 
 * December 2022: Subaru/MOIRCS + HSC - S23A: A deg.-scale pair NB imaging of Balmer decrement across a z~0.9 supercluster, 2.25 nights **as PI**
 * 2021 - 2024: 11 accepted Subaru proposals as Co-I (S21A - S24B)
