@@ -13,7 +13,7 @@ redirect_from:
 Work Experience
 ======
 * Postdoctoral Associate, MIT Kavli Institute for Astrophysics and Space Research, 2025 - present
- * Supervisor: [Dr. Rohan Naidu](https://rohannaidu.github.io) and [Prof. Robert Simcoe](http://simcoe.mit.edu)
+  * Supervisor: [Dr. Rohan Naidu](https://rohannaidu.github.io) and [Prof. Robert Simcoe](http://simcoe.mit.edu)
 
 Education
 ======
