@@ -11,8 +11,8 @@ redirect_from:
 About Me
 ------
 
-I am a fifth-year PhD student at the [Astronomical Institute of Tohoku University](https://www.astr.tohoku.ac.jp/en/), supervised by [Prof. Tadayuki Kodama](http://mahalo.galaxy.bindcloud.jp/pg39.html). 
+I am a postdoctoral scholar at the MIT Kavli Institute, working with [Dr. Rohan Naidu](https://rohannaidu.github.io) and [Prof. Robert Simcoe](http://simcoe.mit.edu). My research broadly focuses on the co-evolution of galaxies and their surrounding environments, as well as the diverse physical processes that shape massive galaxies.
 
-As an observational astronomer, my research focuses on understanding the physical processes that drive galaxy evolution by linking the internal properties of galaxies with their large-scale cosmic environments. I am particularly interested in dust-obscured star formation, and I work on using multi-phase interstellar medium diagnostics to uncover the hidden star-forming activities that are invisible in UV-to-optical surveys.
+Before moving to Boston, I obtained my PhD in Astronomy at the [Astronomical Institute of Tohoku University](https://www.astr.tohoku.ac.jp/en/), supervised by [Prof. Tadayuki Kodama](http://mahalo.galaxy.bindcloud.jp/pg39.html). My doctoral research combined ground-based narrow-band surveys and space-based slitless spectroscopy to study the formation of dust-obscured galaxies.
 
 Outside of research, I enjoy swimming, hiking, and taking my cat to nearby parks to enjoy the fresh air on sunny days.
