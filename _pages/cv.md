@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+
+Work Experience
+======
+* Postdoctoral Associate, MIT Kavli Institute for Astrophysics and Space Research, 2025 - present
+ * Supervisor: [Dr. Rohan Naidu](https://rohannaidu.github.io) and [Prof. Robert Simcoe](http://simcoe.mit.edu)
+
 Education
 ======
 * Ph.D in Astronomy, Tohoku University, 2025
