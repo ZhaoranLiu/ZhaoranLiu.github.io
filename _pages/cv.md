@@ -40,6 +40,7 @@ Professional Service
 
 Selected Awards
 ======
+* 2025: [Tohoku University Professor Fujino Incentive Award](https://www.tohoku.ac.jp/en/news/university_news/tohoku_university_professor_fujino_incentive_award_2025.html)
 * 2024 - 2026: JSPS Fellowship for PhD student (DC2)
   *  Annual research grant 800K JPY
 * 2022 - 2024: JST PhD Student Pioneering Research Support Fellowship
